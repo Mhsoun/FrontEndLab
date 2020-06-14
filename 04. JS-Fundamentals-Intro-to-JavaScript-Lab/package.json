@@ -1,0 +1,13 @@
+{
+  "name": "javascript-lab-withlexicon",
+  "version": "1.0.0",
+  "description": "solving the questions in the exercise lab",
+  "main": "home.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "author": "mohammad mhsoun",
+  "license": "ISC",
+  "keywords": []
+}
